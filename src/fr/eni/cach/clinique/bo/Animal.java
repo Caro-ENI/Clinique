@@ -27,7 +27,7 @@ public class Animal {
 		return nomAnimal;
 	}
 	public void setNomAnimal(String nomAnimal) {
-		this.nomAnimal = nomAnimal;
+		this.nomAnimal = "Je suis la modification de l'utilisateur 1";
 	}
 	public String getSexe() {
 		return sexe;
